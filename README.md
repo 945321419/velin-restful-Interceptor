@@ -22,7 +22,7 @@
 
 
 	var config = {
-		mapper:'main',		/*拦截方法映射*/
+		mapper:'main',		/*拦截方法类的映射*/
 		config:				/*拦截器状态码方法映射*/
 		{
 			'0':'successed',	/*状态码，对应的拦截方法名*/
